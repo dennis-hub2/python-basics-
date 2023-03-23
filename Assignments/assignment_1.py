@@ -1,5 +1,5 @@
 """
-Write a python script that takes input from a user and display it 
+Write a python script in a list that takes input from a user and display it 
 to the user in a well formatted output(use the concept of list)
 Detail:
 Name, Age, Class, Gender, Telephone
