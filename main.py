@@ -36,5 +36,5 @@ Student_grade["Mike"] = "A"
 print("student_grade")
 
 #input 
-age = input("What is your age?\n")
+age = int(input("What is your age?\n"))
 print(f"Your age is {age}")
