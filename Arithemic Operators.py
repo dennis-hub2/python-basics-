@@ -22,7 +22,7 @@
 # print(gender=="Male" and age==12)
 # print(gender=="Female" or age!=12)
 
-#NOT>AND>OR
+#NOT(!)>AND(&&)>OR(||)
 
 #Conditional statments
 age = int(input("Age"))
