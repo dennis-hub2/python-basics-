@@ -1,28 +1,28 @@
-# """"
-# Relational Operators.
-# NOT(!)>AND(&&)>OR(||)
-# """
-# # a = 12
-# # b = 9
-# # print(a > b)
+""""
+Relational Operators.
+NOT(!)>AND(&&)>OR(||)
+"""
+# a = 12
+# b = 9
+# print(a > b)
 
-# """"
-# basic if statement with relational and logical operators
-# """
+""""
+basic if statement with relational and logical operators
+"""
 
-# first_num = int(input("Enter first number: "))
-# second_num = int(input("Enter second number: "))
+first_num = int(input("Enter first number: "))
+second_num = int(input("Enter second number: "))
 
-# #if (condition):
-# if(first_num > second_num):
-#     print(f"{first_num} is greater than {second_num}")
-# #elif (condition):
-# elif second_num > first_num :
-#     print(f"{second_num} is greater than {first_num}")
+#if (condition):
+if(first_num > second_num):
+    print(f"{first_num} is greater than {second_num}")
+#elif (condition):
+elif second_num > first_num :
+    print(f"{second_num} is greater than {first_num}")
 
-# #else:
-# else: 
-#     print("they are equal")
+#else:
+else: 
+    print("they are equal")
 
 
 

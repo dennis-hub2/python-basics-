@@ -1,26 +1,26 @@
-# """"
-# addition = +
-# subtraction = -
-# multiplication = *
-# power = **
+""""
+addition = +
+subtraction = -
+multiplication = *
+power = **
 
-# Mathimatical Operator
-# PEMDAS (p=parentences e=exponent m=mutiplication d=division a=addition s=subtraction)
+Mathimatical Operator
+PEMDAS (p=parentences e=exponent m=mutiplication d=division a=addition s=subtraction)
 
-# Logical Operators
-# and, or, <, >, <=, >=, ==, !=(not equal to), not
-# """
+Logical Operators
+and, or, <, >, <=, >=, ==, !=(not equal to), not
+"""
 
-# # a = 6
-# # # print(a==5)
-# # # print(a>5)
-# # print(a>=5)
+# a = 6
+# # print(a==5)
+# # print(a>5)
+# print(a>=5)
 
-# gender = "Female"
-# age = 12
-# print(gender=="Male" or age==12)
-# print(gender=="Male" and age==12)
-# print(gender=="Female" or age!=12)
+gender = "Female"
+age = 12
+print(gender=="Male" or age==12)
+print(gender=="Male" and age==12)
+print(gender=="Female" or age!=12)
 
 #NOT(!)>AND(&&)>OR(||)
 
