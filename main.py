@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+first_name = "dennis"
+last_name = "Ankora"
+phone_number = 246885010
+
+print(first_name)
+print(last_name)
+print(phone_number)
+=======
 name = "Dennis Ankora"
 phone_number = 246885010
 age = 21
@@ -38,3 +47,4 @@ print("student_grade")
 #input 
 age = int(input("What is your age?\n"))
 print(f"Your age is {age}")
+>>>>>>> 1d607f747dca146189af156f1608aeaa47ebafdc
